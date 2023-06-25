@@ -1,7 +1,7 @@
 # Based on the Gitpod base image
 # @link https://github.com/gitpod-io/workspace-images/blob/main/base/Dockerfile
 
-FROM --platform=${TARGETPLATFORM:-linux/amd64} mcr.microsoft.com/vscode/devcontainers/base:ubuntu
+FROM --platform=${TARGETPLATFORM:-linux/arm64} mcr.microsoft.com/vscode/devcontainers/base:ubuntu
 
 USER root
 
