@@ -7,7 +7,7 @@ Install the Cobra CLI
 
 ```json
 "features": {
-    "ghcr.io/mrsimonemms/devcontainers/cobra-cli:0": {}
+    "ghcr.io/bgervan/devcontainers/cobra-cli:0": {}
 }
 ```
 
@@ -31,4 +31,4 @@ with the `apt` package manager installed. Golang is also required in the contain
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/mrsimonemms/devcontainers/blob/main/features/cobra-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/bgervan/devcontainers/blob/main/features/cobra-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
